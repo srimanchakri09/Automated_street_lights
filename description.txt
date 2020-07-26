@@ -1,0 +1,2 @@
+Now-a-days there is a lot of wastage of power in the midnights on the highways as the street lights are continuosly glowing on even if there is no vehicle on the road 
+so the idea is behind this project is to reduce that wastage by setting only the street lights on at which the vehicle is there and making remaining street off
